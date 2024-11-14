@@ -1,5 +1,5 @@
 # classification-challenge
-Module 13 Challenge
+Module 13 Challenge    
 ###You've been provided with a dataset that contains information about emails, with two possible classifications: spam and not spam. The ISP wants you to take this dataset and develop a supervised machine learning (ML) model that will accurately detect spam emails.  You will be creating two classification models to fit the provided data
 
 ## Table of Contents
@@ -44,4 +44,5 @@ For any questions or feedback, feel free to message Steve at his linkedin site: 
 
 ## Additional Reading 
 See all of Steve's existing Python work here: https://github.com/steve-vierling   
+
 I am a beginner python developer with a Master's degree in Information Systems from Regis University, Denver, CO. I have over 20 years of Unix/Linux experience, software support and 2.5 years in DevOps.  I am passionate about creating efficient and scalable software solutions.
